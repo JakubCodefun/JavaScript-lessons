@@ -1,0 +1,28 @@
+body {
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+h1 {
+  color: brown;
+}
+
+input,
+button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: rgb(243, 124, 124);
+  color: white;
+  transition: 1s;
+}
+button:hover {
+  transform: scale(1.1);
+  background-color: rgb(245, 62, 62);
+}
+#srednia {
+  font-weight: bold;
+}
